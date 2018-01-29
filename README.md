@@ -23,6 +23,8 @@
 - 6.0 Convolution Filter (Keras).ipynb
     - 6.1 Pooling Layer (Keras).ipynb
     - 6.2 MNIST Classifier - Convolution Network (Keras).ipynb
+    - 6.3 CIFAR10 Classifier - Convolution Network (Keras).ipynb
+    - 6.4 fashion_MINST - Convolution Network (Keras).ipynb
 
 ## References
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
