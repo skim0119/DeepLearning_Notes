@@ -2,12 +2,13 @@
 - Deep learning practice using Keras DNN packages.
 
 ## Table of Contents
--e 1. Image Classifier w/ __Keras__
+- 1. Image Classifier w/ __Keras__
     - 1.1.0 Least Square Regression Practice
         - 1.1 (Note) Activation Function
     - 1.2.0 Basic Classifier Practice
         - _2.1 (Note) Softmax_
     - 1.3.0 MNIST Classifier - Single Dense Layer
+        - 3.1 Single Dense Layer w/ Visualization
     - 1.4.0 Single Hidden-layer Network Regression Practice
         - 4.1 MNIST Classifier- Single Hidden Layer
     - 1.5.0 Mult-layered Neural Network
