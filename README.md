@@ -15,10 +15,10 @@ This repository contains IPython notebooks and some python codes that I used to 
 1. Regression
     1. Simple Linear Regression
     2. Least Square Approximation
-        - Activation Function
+    - (Note) Activation Function
 2. Image Classifier w/ __Keras__
     1. Basic Classifier Practice
-        - (Note) Softmax_
+    - (Note) Softmax_
     2. MNIST Classifier - Single Dense Layer
         1 Single Dense Layer w/ Visualization
     3. Single Hidden-layer Network Regression Practice
