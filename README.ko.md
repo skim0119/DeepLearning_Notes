@@ -19,9 +19,9 @@
         - 활성화함수
 2. 이미지 분류 w/ __Keras__
     1. Basic Classifier Practice
-        - (Note) Softmax_
+    - _(Note) Softmax_
     2. MNIST Classifier - Single Dense Layer
-        1 Single Dense Layer w/ Visualization
+        1. Single Dense Layer w/ Visualization
     3. Single Hidden-layer Network Regression Practice
         1. MNIST Classifier- Single Hidden Layer
     4. Mult-layered Neural Network
@@ -30,7 +30,9 @@
         2. MNIST Classifier - Convolution Network
         3. CIFAR10 Classifier - Convolution Network
         4. fashion_MINST - Convolution Network
+    6. _RNN_
+    
+* 기울림 글씨는 아직 미완성된 노트라는 의미입니다.
 
 ## 참조
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
-
