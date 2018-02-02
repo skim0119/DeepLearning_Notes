@@ -16,14 +16,14 @@
 1. 회귀
     1. 간단한 선형 회귀
     2. 최소제곱법
+    3. Single Hidden-layer Network Regression Practice
         - 활성화함수
 2. 이미지 분류 w/ __Keras__
     1. Basic Classifier Practice
     - _(Note) Softmax_
     2. MNIST Classifier - Single Dense Layer
         1. Single Dense Layer w/ Visualization
-    3. Single Hidden-layer Network Regression Practice
-        1. MNIST Classifier- Single Hidden Layer
+    3. MNIST Classifier- Single Hidden Layer
     4. Mult-layered Neural Network
     5. Convolution Filter
         1. Pooling Layer
