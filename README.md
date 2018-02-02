@@ -18,7 +18,7 @@ This repository contains IPython notebooks and some python codes that I used to 
     - (Note) Activation Function
 2. Image Classifier w/ __Keras__
     1. Basic Classifier Practice
-    - (Note) Softmax_
+    - _(Note) Softmax_
     2. MNIST Classifier - Single Dense Layer
         1 Single Dense Layer w/ Visualization
     3. Single Hidden-layer Network Regression Practice
@@ -29,6 +29,8 @@ This repository contains IPython notebooks and some python codes that I used to 
         2. MNIST Classifier - Convolution Network
         3. CIFAR10 Classifier - Convolution Network
         4. fashion_MINST - Convolution Network
+        
+* Italic means the contents is not uploaded yet.
 
 ## References
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
