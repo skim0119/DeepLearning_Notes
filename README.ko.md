@@ -1,23 +1,23 @@
-# Deep Learning Practice
+# 딥러닝 연습장
 
-This repository contains IPython notebooks and some python codes that I used to practice deep learning and neural network.
+딥러닝과 여러 뉴럴네트워크 구현을 Ipython 주피터 노트북과 파이썬을 이용해 연습한 내용입니다. 내용은 대부분 영어로 작성되었습니다.
 
 * Read this in other language: [English](README.md)
 
-## Environment
+## 실행환경
 - Python3.6
-    - Check the requirement.txt
-    - Use ``` $ pip install -r requirement.txt ``` to install packages.
-    - It includes Keras deep learning package with TensorFlow backend.
-    - Tensorflow with gpu can be install by replacing requirement.txt from tensorflow to tensorflow-gpu.
+    - requirement.txt 안에 모든 파이썬 패키지가 들어있습니다.
+    - ``` $ pip install -r requirement.txt ``` 커맨드를 이용해 설치할수 있습니다.
+    - 주로 케라스(Keras)와 텐서플로(TensorFlow)를 이용해 작성했습니다.
+    - 텐서플로를 GPU(그래픽카드)와 함깨 사용하려면 requirement.txt 안에 tensorflow 패키지를 tensorflow-gpu 로 바꾸면 됩니다.
 
 
-## Table of Contents
-1. Regression
-    1. Simple Linear Regression
-    2. Least Square Approximation
-        - Activation Function
-2. Image Classifier w/ __Keras__
+## 목차
+1. 회귀
+    1. 간단한 선형 회귀
+    2. 최소제곱법
+        - 활성화함수
+2. 이미지 분류 w/ __Keras__
     1. Basic Classifier Practice
         - (Note) Softmax_
     2. MNIST Classifier - Single Dense Layer
@@ -31,6 +31,6 @@ This repository contains IPython notebooks and some python codes that I used to 
         3. CIFAR10 Classifier - Convolution Network
         4. fashion_MINST - Convolution Network
 
-## References
+## 참조
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
 
