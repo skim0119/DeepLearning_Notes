@@ -6,10 +6,10 @@
 
 ## 실행환경
 - Python3.6
-    - requirement.txt 안에 모든 파이썬 패키지가 들어있습니다.
-    - ``` $ pip install -r requirement.txt ``` 커맨드를 이용해 설치할수 있습니다.
-    - 주로 케라스(Keras)와 텐서플로(TensorFlow)를 이용해 작성했습니다.
-    - 텐서플로를 GPU(그래픽카드)와 함깨 사용하려면 requirement.txt 안에 tensorflow 패키지를 tensorflow-gpu 로 바꾸면 됩니다.
+    - requirement.txt 안에 모든 파이썬 패키지가 들어있습니다. 
+    - ``` $ pip install -r requirement.txt ``` 커맨드를 이용해 설치할수 있습니다. 
+    - 주로 케라스(Keras)와 텐서플로(TensorFlow)를 이용해 작성했습니다. 
+    - 텐서플로를 GPU(그래픽카드)와 함깨 사용하려면 requirement.txt 안에 tensorflow 패키지를 tensorflow-gpu 로 바꾸면 됩니다. 
 
 
 ## 목차
