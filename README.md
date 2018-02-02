@@ -20,7 +20,7 @@ This repository contains IPython notebooks and some python codes that I used to 
     1. Basic Classifier Practice
     - _(Note) Softmax_
     2. MNIST Classifier - Single Dense Layer
-        1 Single Dense Layer w/ Visualization
+        1. Single Dense Layer w/ Visualization
     3. Single Hidden-layer Network Regression Practice
         1. MNIST Classifier- Single Hidden Layer
     4. Mult-layered Neural Network
