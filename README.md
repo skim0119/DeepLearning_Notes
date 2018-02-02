@@ -29,7 +29,7 @@ This repository contains IPython notebooks and some python codes that I used to 
         2. MNIST Classifier - Convolution Network
         3. CIFAR10 Classifier - Convolution Network
         4. fashion_MINST - Convolution Network
-    6. RNN
+    6. _RNN_
         
 * Italic means the contents is not uploaded yet or not fully written.
 
