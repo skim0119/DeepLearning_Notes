@@ -29,8 +29,9 @@ This repository contains IPython notebooks and some python codes that I used to 
         2. MNIST Classifier - Convolution Network
         3. CIFAR10 Classifier - Convolution Network
         4. fashion_MINST - Convolution Network
+    6. RNN
         
-* Italic means the contents is not uploaded yet.
+* Italic means the contents is not uploaded yet or not fully written.
 
 ## References
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
