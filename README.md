@@ -18,7 +18,7 @@ This repository contains IPython notebooks and some python codes that I used to 
     3. Single Hidden-layer Network Regression Practice
     4. Boston Housing Regression
     - (Note) Activation Function
-2. [Image Classifier w/ __Keras__](2.Image\ Classifier/Classifier.md)
+2. [Image Classifier](2.Image\ Classifier/Classifier.md)
     1. Basic Classifier Practice
     - _(Note) Softmax_
     2. MNIST Classifier - Single Dense Layer
