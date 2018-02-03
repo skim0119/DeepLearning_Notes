@@ -12,13 +12,13 @@ This repository contains IPython notebooks and some python codes that I used to 
     - Tensorflow with gpu can be install by replacing requirement.txt from tensorflow to tensorflow-gpu.
 
 ## Table of Contents
-1. [Regression](1.Regression/Regression.md)
+1. Regression
     1. Simple Linear Regression
     2. Least Square Approximation
     3. Single Hidden-layer Network Regression Practice
     4. Boston Housing Regression
     - (Note) Activation Function
-2. [Image Classifier w/ __Keras__](2.Image\ Classifier/Classifier.md)
+2. Image Classifier
     1. Basic Classifier Practice
     - _(Note) Softmax_
     2. MNIST Classifier - Single Dense Layer
