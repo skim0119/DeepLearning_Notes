@@ -16,6 +16,7 @@ This repository contains IPython notebooks and some python codes that I used to 
     1. Simple Linear Regression
     2. Least Square Approximation
     3. Single Hidden-layer Network Regression Practice
+    4. Boston Housing Regression
     - (Note) Activation Function
 2. Image Classifier w/ __Keras__
     1. Basic Classifier Practice
@@ -35,3 +36,4 @@ This repository contains IPython notebooks and some python codes that I used to 
 
 ## References
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
+

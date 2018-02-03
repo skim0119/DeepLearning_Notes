@@ -17,6 +17,7 @@
     1. 간단한 선형 회귀
     2. 최소제곱법
     3. Single Hidden-layer Network Regression Practice
+    4. Boston-Housing Regression
         - 활성화함수
 2. 이미지 분류 w/ __Keras__
     1. Basic Classifier Practice
@@ -36,3 +37,4 @@
 
 ## 참조
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
+
