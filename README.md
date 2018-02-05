@@ -30,11 +30,14 @@ This repository contains IPython notebooks and some python codes that I used to 
         2. MNIST Classifier - Convolution Network
         3. CIFAR10 Classifier - Convolution Network
         4. fashion_MINST - Convolution Network
-    6. _RNN_
+3. Text Classifier
+    1. IMDB Text Classifier - CNN
+    2. IMDB Sentiment Classifier - LSTM
         
 * Italic means the contents is not uploaded yet or not fully written.
 
 ## References
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
+
 
 

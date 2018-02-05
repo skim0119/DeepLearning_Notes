@@ -31,10 +31,13 @@
         2. MNIST Classifier - Convolution Network
         3. CIFAR10 Classifier - Convolution Network
         4. fashion_MINST - Convolution Network
-    6. _RNN_
+3. Text Classifier
+    1. IMDB Text Classifier - CNN
+    2. IMDB Sentiment Classifier - LSTM
     
 * 기울림 글씨는 아직 미완성된 노트라는 의미입니다.
 
 ## 참조
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
+
 
