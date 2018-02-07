@@ -7,7 +7,10 @@ This repository contains IPython notebooks and some python codes that I used to 
 ## Environment
 - Python3.6
     - Check the requirement.txt
-    - Use ``` $ pip install -r requirement.txt ``` to install packages.
+    - Install requirement packages:
+        ```
+        $ pip install -r requirement.txt 
+        ```    
     - It includes Keras deep learning package with TensorFlow backend.
     - Tensorflow with gpu can be install by replacing requirement.txt from tensorflow to tensorflow-gpu.
 
@@ -38,6 +41,5 @@ This repository contains IPython notebooks and some python codes that I used to 
 
 ## References
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
-
 
 
