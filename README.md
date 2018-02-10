@@ -36,6 +36,8 @@ This repository contains IPython notebooks and some python codes that I used to 
 3. Text Classifier
     1. IMDB Text Classifier - CNN
     2. IMDB Sentiment Classifier - LSTM
+4. Time Series
+    1. Binary Adder - RNN
 * Italic means the contents is not uploaded yet or not fully written.
 
 ## References

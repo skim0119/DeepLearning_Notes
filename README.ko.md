@@ -37,6 +37,8 @@
 3. Text Classifier
     1. IMDB Text Classifier - CNN
     2. IMDB Sentiment Classifier - LSTM
+4. Time Series
+    1. Binary Adder - RNN
     
 * 기울림 글씨는 아직 미완성된 노트라는 의미입니다.
 
