@@ -16,8 +16,11 @@
 
 
 ## 목차
+
+### 지도학습 (Supervised Learning)
 1. 회귀
     1. 간단한 선형 회귀
+        1. 경사하강법 구현연습
     2. 최소제곱법
     3. Single Hidden-layer Network Regression Practice
     4. Boston-Housing Regression
@@ -39,7 +42,13 @@
     2. IMDB Sentiment Classifier - LSTM
 4. Time Series
     1. Binary Adder - RNN
-    
+    2. Airline - RNN Time Series Prediction
+
+### 비지도학습 (Unsupervised Learning)
+5. Autoencoder
+    1. MNIST - Autoencoder Fully Connected
+    2. _MNIST - Autoencoder CNN_
+
 * 기울림 글씨는 아직 미완성된 노트라는 의미입니다.
 
 ## 참조

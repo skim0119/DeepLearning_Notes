@@ -15,8 +15,11 @@ This repository contains IPython notebooks and some python codes that I used to 
     - Tensorflow with gpu can be install by replacing requirement.txt from tensorflow to tensorflow-gpu.
 
 ## Table of Contents
+
+### Supervised Learning
 1. Regression
     1. Simple Linear Regression
+        1. Gradient Descent Implementation
     2. Least Square Approximation
     3. Single Hidden-layer Network Regression Practice
     4. Boston Housing Regression
@@ -38,6 +41,13 @@ This repository contains IPython notebooks and some python codes that I used to 
     2. IMDB Sentiment Classifier - LSTM
 4. Time Series
     1. Binary Adder - RNN
+    2. Airline - RNN Time Series Prediction
+
+### Unsupervised Learning
+5. Autoencoder
+    1. MNIST - Autoencoder Fully Connected
+    2. _MNIST - Autoencoder CNN_
+
 * Italic means the contents is not uploaded yet or not fully written.
 
 ## References
