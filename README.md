@@ -46,7 +46,7 @@ This repository contains IPython notebooks and some python codes that I used to 
 ### Unsupervised Learning
 5. Autoencoder
     1. MNIST - Autoencoder Fully Connected
-    2. _MNIST - Autoencoder CNN_
+    2. MNIST - Autoencoder CNN
 
 * Italic means the contents is not uploaded yet or not fully written.
 

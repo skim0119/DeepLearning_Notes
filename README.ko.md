@@ -47,7 +47,7 @@
 ### 비지도학습 (Unsupervised Learning)
 5. Autoencoder
     1. MNIST - Autoencoder Fully Connected
-    2. _MNIST - Autoencoder CNN_
+    2. MNIST - Autoencoder CNN
 
 * 기울림 글씨는 아직 미완성된 노트라는 의미입니다.
 
