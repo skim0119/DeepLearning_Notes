@@ -47,6 +47,9 @@ This repository contains IPython notebooks and some python codes that I used to 
 5. Autoencoder
     1. MNIST - Autoencoder Fully Connected
     2. MNIST - Autoencoder CNN
+6. Generative Adversarial Networks
+    1. Probabilistic Distribution - Fully Connected GAN
+    2. MNIST - CNN GAN
 
 * Italic means the contents is not uploaded yet or not fully written.
 
