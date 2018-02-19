@@ -48,6 +48,9 @@
 5. Autoencoder
     1. MNIST - Autoencoder Fully Connected
     2. MNIST - Autoencoder CNN
+6. Generative Adversarial Networks
+    1. Probabilistic Distribution - Fully Connected GAN
+    2. MNIST - CNN GAN
 
 * 기울림 글씨는 아직 미완성된 노트라는 의미입니다.
 
