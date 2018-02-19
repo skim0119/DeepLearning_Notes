@@ -1,6 +1,6 @@
 # 딥러닝 연습장
 
-딥러닝과 여러 뉴럴네트워크 구현을 Ipython 주피터 노트북과 파이썬을 이용해 연습한 내용입니다. 내용은 대부분 영어로 작성되었습니다.
+딥러닝과 다양한 뉴럴 네트워크 구현을 IPython 주피터 노트북과 파이썬을 이용해 연습한 내용입니다. 내용은 대부분 영어로 작성되었습니다.
 
 * Read this in other language: [English](README.md)
 
@@ -17,32 +17,33 @@
 
 ## 목차
 
-### 지도학습 (Supervised Learning)
-1. 회귀
-    1. 간단한 선형 회귀
-        1. 경사하강법 구현연습
-    2. 최소제곱법
-    3. Single Hidden-layer Network Regression Practice
-    4. Boston-Housing Regression
+### 지도학습 (Supervised Learning)    
+
+1. 회귀   
+    1. 간단한 선형 회귀   
+        1. 경사하강법 구현연습   
+    2. 최소제곱법   
+    3. 다층 뉴럴 네트워크 회귀 연습
+    4. 보스턴 집값 데이터를 이용한 회귀 모델
         - 활성화함수
 2. 이미지 분류 w/ __Keras__
-    1. Basic Classifier Practice
+    1. 간단한 분류기 연습
     - _(Note) Softmax_
-    2. MNIST Classifier - Single Dense Layer
+    2. MNIST 이미지 분류 - 단일 전연결 계층
         1. Single Dense Layer w/ Visualization
-    3. MNIST Classifier- Single Hidden Layer
-    4. Mult-layered Neural Network
-    5. Convolution Filter
-        1. Pooling Layer
-        2. MNIST Classifier - Convolution Network
-        3. CIFAR10 Classifier - Convolution Network
-        4. fashion_MINST - Convolution Network
-3. Text Classifier
-    1. IMDB Text Classifier - CNN
-    2. IMDB Sentiment Classifier - LSTM
-4. Time Series
-    1. Binary Adder - RNN
-    2. Airline - RNN Time Series Prediction
+    3. MNIST 이미지 분류 - 이중 전연결 계층
+    4. 다중 전연결 신경망
+    5. 합성곱 필터
+        1. 풀링 계층
+        2. MNIST 이미지 분류 - 합성곱+전연결 네트워크
+        3. CIFAR10 이미지 분류 - 합성곱+전연결 네트워크
+        4. fashion_MINST 이미지 분류 - 합성곱+전연결 네트워크
+3. 문장 분류기
+    1. IMDB 댓글 분류기 - 일차원 합성곱 네트워크
+    2. IMDB 댓글 감정 분류기 - LSTM 네트워크
+4. 시계열 예측
+    1. 이진 가산기 - 단순 순환네트워크
+    2. Airline - 단순 순환네트워크
 
 ### 비지도학습 (Unsupervised Learning)
 5. Autoencoder
