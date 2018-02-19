@@ -23,35 +23,35 @@
     1. 간단한 선형 회귀   
         1. 경사하강법 구현연습   
     2. 최소제곱법   
-    3. 다층 뉴럴 네트워크 회귀 연습
-    4. 보스턴 집값 데이터를 이용한 회귀 모델
-        - 활성화함수
-2. 이미지 분류 w/ __Keras__
-    1. 간단한 분류기 연습
-    - _(Note) Softmax_
-    2. MNIST 이미지 분류 - 단일 전연결 계층
-        1. Single Dense Layer w/ Visualization
-    3. MNIST 이미지 분류 - 이중 전연결 계층
-    4. 다중 전연결 신경망
-    5. 합성곱 필터
-        1. 풀링 계층
-        2. MNIST 이미지 분류 - 합성곱+전연결 네트워크
-        3. CIFAR10 이미지 분류 - 합성곱+전연결 네트워크
-        4. fashion_MINST 이미지 분류 - 합성곱+전연결 네트워크
-3. 문장 분류기
-    1. IMDB 댓글 분류기 - 일차원 합성곱 네트워크
-    2. IMDB 댓글 감정 분류기 - LSTM 네트워크
-4. 시계열 예측
-    1. 이진 가산기 - 단순 순환네트워크
-    2. Airline - 단순 순환네트워크
+    3. 다층 뉴럴 네트워크 회귀 연습  
+    4. 보스턴 집값 데이터를 이용한 회귀 모델  
+        - 활성화함수  
+2. 이미지 분류 w/ __Keras__  
+    1. 간단한 분류기 연습  
+    - _(Note) Softmax_  
+    2. MNIST 이미지 분류 - 단일 전연결 계층  
+        1. Single Dense Layer w/ Visualization  
+    3. MNIST 이미지 분류 - 이중 전연결 계층  
+    4. 다중 전연결 신경망  
+    5. 합성곱 필터  
+        1. 풀링 계층  
+        2. MNIST 이미지 분류 - 합성곱+전연결 네트워크  
+        3. CIFAR10 이미지 분류 - 합성곱+전연결 네트워크  
+        4. fashion_MINST 이미지 분류 - 합성곱+전연결 네트워크  
+3. 문장 분류기  
+    1. IMDB 댓글 분류기 - 일차원 합성곱 네트워크  
+    2. IMDB 댓글 감정 분류기 - LSTM 네트워크  
+4. 시계열 예측  
+    1. 이진 가산기 - 단순 순환네트워크  
+    2. Airline - 단순 순환네트워크  
 
 ### 비지도학습 (Unsupervised Learning)
-5. Autoencoder
-    1. MNIST - Autoencoder Fully Connected
-    2. MNIST - Autoencoder CNN
-6. Generative Adversarial Networks
-    1. Probabilistic Distribution - Fully Connected GAN
-    2. MNIST - CNN GAN
+5. Autoencoder  
+    1. MNIST - Autoencoder Fully Connected  
+    2. MNIST - Autoencoder CNN  
+6. Generative Adversarial Networks  
+    1. Probabilistic Distribution - Fully Connected GAN  
+    2. MNIST - CNN GAN  
 
 * 기울림 글씨는 아직 미완성된 노트라는 의미입니다.
 
