@@ -53,6 +53,11 @@ This repository contains IPython notebooks and some python codes that I used to 
 
 * Italic means the contents is not uploaded yet or not fully written.
 
+## Miscellaneous Notes
+- Tips
+    - Keras: Save/Load Model
+    - Keras: Preprocessing Image (Augmented Image Generator)
+
 ## References
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
 
