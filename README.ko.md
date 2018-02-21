@@ -19,6 +19,9 @@
 
 ### 지도학습 (Supervised Learning)    
 
+0. Neural Network Theory
+    - Activation Function
+    - _(Note) Softmax_
 1. 회귀
     1. 간단한 선형 회귀
         1. 경사하강법 구현연습
@@ -28,7 +31,6 @@
     - 활성화함수
 2. 이미지 분류 w/ __Keras__  
     1. 간단한 분류기 연습  
-    - _(Note) Softmax_  
     2. MNIST 이미지 분류 - 단일 전연결 계층  
         1. Single Dense Layer w/ Visualization  
     3. MNIST 이미지 분류 - 이중 전연결 계층  
