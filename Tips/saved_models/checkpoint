@@ -1,0 +1,2 @@
+model_checkpoint_path: "tensorboard.ckpt-4999"
+all_model_checkpoint_paths: "tensorboard.ckpt-4999"
