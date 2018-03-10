@@ -25,7 +25,7 @@ This repository contains IPython notebooks and some python codes that I used to 
 
 ### Supervised Learning
 0. Neural Network Theory
-    1. Perceptron
+    1. Neuron and Perceptron
     2. Activation Function
     3. Softmax
     4. __Gradient Descent Method__
