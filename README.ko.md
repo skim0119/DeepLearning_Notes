@@ -29,7 +29,7 @@
 
 ### 지도학습 (Supervised Learning)    
 0. 신경망 이론
-    1. Perceptron
+    1. 뉴런과 퍼셉트론  
     2. Activation Function
     3. Softmax
     4. __Gradient Descent Method__
