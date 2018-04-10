@@ -4,7 +4,7 @@ This repository contains Jupyter Notebooks and some python codes that I used to 
 
 Any work and notes about other machine learning techniques and reinforcement learning is moved to separate repository.
 
-At the end, I want this repository to be a good reminder and refresher of what deep learning is and how to apply it to any other project.
+At the end, I want this project to be a good reminder and refresher of what deep learning is and how to apply it to any other project.
 
 * Read this in other language: [한국어](README.ko.md)
 
@@ -43,7 +43,7 @@ At the end, I want this repository to be a good reminder and refresher of what d
     2. Least Square Approximation
     3. Single Hidden-layer Network Regression Practice
     4. Boston Housing Regression
-2. Image Classifier
+2. Vision
     1. Basic Classifier Practice
     2. MNIST Classifier - Single Dense Layer
         1. Single Dense Layer w/ Visualization
