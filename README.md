@@ -24,6 +24,7 @@ This repository contains IPython notebooks and some python codes that I used to 
 ## Table of Contents
 
 ### Supervised Learning
+
 0. Neural Network Theory
     1. Neuron and Perceptron
     2. Activation Function
@@ -51,27 +52,28 @@ This repository contains IPython notebooks and some python codes that I used to 
         4. fashion_MINST - Convolution Network
     6. MNIST - VGG 16, VGG 19 Network
     7. CIFAR10 - ResNet
-3. Text and Sequence
+3. Text/Sequence and Time Series
     1. IMDB Text Classifier - CNN
     2. IMDB Sentiment Classifier - LSTM
-4. Time Series
-    1. Binary Adder - RNN
-    2. Airline - RNN Time Series Prediction
-    3. Power Consumption - LSTM Prediction
-    4. Numeric Adder - LSTM
+    3. Binary Adder - RNN
+    4. Airline - RNN Time Series Prediction
+    5. Power Consumption - LSTM Prediction
+    6. Numeric Adder - LSTM
 
 ### Unsupervised Learning
-5. Autoencoder
+
+4. Autoencoder
     1. MNIST - Autoencoder Fully Connected
     2. MNIST - Autoencoder CNN
     3. CIFAR10 - UNET Color Restoration
-6. Generative Adversarial Networks
+5. Generative Adversarial Networks
     1. Probabilistic Distribution - Fully Connected GAN
     2. MNIST - CNN GAN
 
 * Italic means the contents is not uploaded yet or not fully written.
 
 ## Miscellaneous Notes
+
 - Tips
     - Keras
         - Save/Load Model
