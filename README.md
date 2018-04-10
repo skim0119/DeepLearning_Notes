@@ -1,6 +1,10 @@
 # Deep Learning Practice
 
-This repository contains IPython notebooks and some python codes that I used to practice deep learning and neural network.
+This repository contains Jupyter Notebooks and some python codes that I used to practice deep learning and neural network.
+
+Any work and notes about other machine learning techniques and reinforcement learning is moved to separate repository.
+
+At the end, I want this repository to be a good reminder and refresher of what deep learning is and how to apply it to any other project.
 
 * Read this in other language: [한국어](README.ko.md)
 
@@ -10,16 +14,17 @@ This repository contains IPython notebooks and some python codes that I used to 
     - Install requirement packages:
         - cpu only
         ```
-        $ pip install -r requirements.txt 
+        $ pip install -r requirements.txt
         ```    
         - cpu and gpu
         ```
         $ pip install -r requirements_gpu.txt
         ```
-        
+
     - Recommended using virtualenv to install and run.
     - It includes Keras deep learning package with TensorFlow backend.
     - Tensorflow with gpu can be install by replacing requirement.txt from tensorflow to tensorflow-gpu.
+- Tensorflow 1.5.0
 
 ## Table of Contents
 
@@ -28,9 +33,8 @@ This repository contains IPython notebooks and some python codes that I used to 
 0. Neural Network Theory
     1. Neuron and Perceptron
     2. Activation Function
-    3. Softmax
-    4. __Gradient Descent Method__
-    5. __Back Propagation__
+    3. Gradient Descent Method
+    4. __Back Propagation__
         1. __Stochastic Gradient Descent__
         2. __Adam__
 1. Regression
@@ -85,5 +89,3 @@ This repository contains IPython notebooks and some python codes that I used to 
 
 ## References
 Some data was brought from https://github.com/Jpub/TensorflowDeeplearning jupyter_tfbook
-
-
